@@ -1,0 +1,19 @@
+{
+  "name": "elm-reactor-brunch",
+  "version": "0.0.0",
+  "description": "A small Brunch plugin to run elm-reactor",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adelgado/elm-reactor-brunch"
+  },
+  "author": "Alessandro Delgado <adelgado1313@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adelgado/elm-reactor-brunch/issues"
+  },
+  "homepage": "https://github.com/adelgado/elm-reactor-brunch"
+}
